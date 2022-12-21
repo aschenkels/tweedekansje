@@ -13,7 +13,6 @@ cffi
 charset-normalizer
 click
 cycler
-datetime
 debugpy
 decorator
 defusedxml
@@ -40,7 +39,6 @@ jupyterlab-widgets
 kiwisolver
 MarkupSafe
 matplotlib
-matplotlib.pyplot
 matplotlib-inline
 mistune
 nbclient
@@ -55,10 +53,8 @@ pandas
 pandocfilters
 parso
 pexpect
-pickle
 pickleshare
 Pillow
-plotly.express
 prometheus-client
 prompt-toolkit
 protobuf==3.20.*
@@ -84,8 +80,6 @@ smmap
 soupsieve
 stack-data
 streamlit
-streamlit_extras
-tabulate
 terminado
 tinycss2
 toml
